@@ -1,5 +1,6 @@
 # linear_regression
 Scholar projet
+Written in Golang (go1.13 darwin/amd64)
 
 ## Usage
 Makefile will compile both executables in the bin folder
