@@ -13,7 +13,9 @@ The train command will read the data.csv file and export model.json. A visual of
 The predict command allows to make a prediction based on the trained model
 
 `make`
+
 `./bin/train`
+
 `./bin/predict`
 
 ## Author
