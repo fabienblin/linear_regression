@@ -2,6 +2,7 @@
 Scholar projet
 
 Written in Golang (go1.13 darwin/amd64)
+![ml](https://github.com/keschnir/linear_regression/blob/master/ml.png)
 
 ## Usage
 Makefile will compile both executables in the bin folder
