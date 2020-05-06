@@ -11,7 +11,7 @@ clean:
 re : clean all
 
 dependencies:
-	go get github.com/go-gota/gota/dataframes
+	go get github.com/go-gota/gota/dataframe
 	go get github.com/go-gota/gota/series
 	go get gonum.org/v1/plot
 
